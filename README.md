@@ -1,4 +1,4 @@
-# TechTree information command on stream for Age of Empires II: Definitive Edition
+# Session Summary Command on Stream for Age of Empires II: Definitive Edition
 1. This is an API for displaying session summary information of a player for the game AoE2:DE. It will diplay this information for games played in the last 6 hours (or more, if you play continuously for longer)
 2. The API can be used by this link: https://alian713-twitch-commands.herokuapp.com/session
 
@@ -13,3 +13,7 @@
 Example outputs:
 
 `RM elo change: 15, wins: 6, losses: 4 || TRM elo change: 13, wins: 2, losses: 2`
+
+# Notes
+
+1. The firebase file used in this app isn't included in the repo
